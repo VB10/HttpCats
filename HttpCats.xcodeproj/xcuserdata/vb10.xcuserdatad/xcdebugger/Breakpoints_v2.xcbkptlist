@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FCF60405-E71E-4EB2-8070-21082B0BD60A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7366AE64-A17F-4A77-8AE3-2DDEA4C8F94C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpCats/Service/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getHttpCats(onCompleted:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7366AE64-A17F-4A77-8AE3-2DDEA4C8F94C - 4a1d2083c6f06e44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpCats.NetworkManager.getHttpCats() -&gt; ()"
+                  moduleName = "HttpCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb10/Desktop/swift/HttpCats/HttpCats/Service/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "7366AE64-A17F-4A77-8AE3-2DDEA4C8F94C - 6eeebadb8ae247fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;HttpCats.HttpCat, Alamofire.AFError&gt;) -&gt; () in HttpCats.NetworkManager.getHttpCats() -&gt; ()"
+                  moduleName = "HttpCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb10/Desktop/swift/HttpCats/HttpCats/Service/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "048C809C-EA72-481E-BE74-B1E70D51D986"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpCats/Service/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getHttpCats(onCompleted:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "048C809C-EA72-481E-BE74-B1E70D51D986 - 4a1d2083c6f06e44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpCats.NetworkManager.getHttpCats() -&gt; ()"
+                  moduleName = "HttpCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb10/Desktop/swift/HttpCats/HttpCats/Service/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "048C809C-EA72-481E-BE74-B1E70D51D986 - 6eeebadb8ae247fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;HttpCats.HttpCat, Alamofire.AFError&gt;) -&gt; () in HttpCats.NetworkManager.getHttpCats() -&gt; ()"
+                  moduleName = "HttpCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb10/Desktop/swift/HttpCats/HttpCats/Service/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0586246F-3F52-42EA-B15A-23FE7F474F1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpCats/Service/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "NetworkManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0586246F-3F52-42EA-B15A-23FE7F474F1B - 9d2c4c6b9c96458c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpCats.NetworkManager.deinit"
+                  moduleName = "HttpCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb10/Desktop/swift/HttpCats/HttpCats/Service/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0586246F-3F52-42EA-B15A-23FE7F474F1B - b6361e8428e42e91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpCats.NetworkManager.__deallocating_deinit"
+                  moduleName = "HttpCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb10/Desktop/swift/HttpCats/HttpCats/Service/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0586246F-3F52-42EA-B15A-23FE7F474F1B - 6835331db4572e50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpCats.NetworkManager.__allocating_init() -&gt; HttpCats.NetworkManager"
+                  moduleName = "HttpCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb10/Desktop/swift/HttpCats/HttpCats/Service/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "0586246F-3F52-42EA-B15A-23FE7F474F1B - 73c1be4293a65158"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HttpCats.NetworkManager.init() -&gt; HttpCats.NetworkManager"
+                  moduleName = "HttpCats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vb10/Desktop/swift/HttpCats/HttpCats/Service/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65825B07-F8D9-4A36-809F-398D77A29CD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HttpCats/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
