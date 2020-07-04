@@ -31,7 +31,7 @@ struct ContentView: View {
             List(catsList) {
                 cat in
 
-                Text(cat.welcomeDescription)
+                CatCardView(httpCat: cat)
             }
         }
     }

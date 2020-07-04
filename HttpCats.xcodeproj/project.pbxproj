@@ -13,6 +13,7 @@
 		541ABCA824AE1753007ABECD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 541ABCA724AE1753007ABECD /* Assets.xcassets */; };
 		541ABCAB24AE1753007ABECD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 541ABCAA24AE1753007ABECD /* Preview Assets.xcassets */; };
 		541ABCAE24AE1753007ABECD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 541ABCAC24AE1753007ABECD /* LaunchScreen.storyboard */; };
+		54D8545F24B017CF003B2D84 /* CatCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D8545E24B017CF003B2D84 /* CatCardView.swift */; };
 		54E3B6C624AE859D004145CA /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54E3B6C524AE859D004145CA /* ToDoItem.swift */; };
 		54E3B6C924AE8CC4004145CA /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 54E3B6C824AE8CC4004145CA /* Alamofire */; };
 		54E3B6CC24AE8CD9004145CA /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54E3B6CB24AE8CD9004145CA /* NetworkManager.swift */; };
@@ -28,6 +29,7 @@
 		541ABCAA24AE1753007ABECD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		541ABCAD24AE1753007ABECD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		541ABCAF24AE1753007ABECD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54D8545E24B017CF003B2D84 /* CatCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatCardView.swift; sourceTree = "<group>"; };
 		54E3B6C524AE859D004145CA /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 		54E3B6CB24AE8CD9004145CA /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		54E3B6CD24AE8E48004145CA /* HttpCat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HttpCat.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 		541ABCA024AE1752007ABECD /* HttpCats */ = {
 			isa = PBXGroup;
 			children = (
+				54D8545D24B017B3003B2D84 /* Component */,
 				54E3B6CA24AE8CCA004145CA /* Service */,
 				54E3B6C424AE858A004145CA /* Model */,
 				541ABCA124AE1752007ABECD /* AppDelegate.swift */,
@@ -83,6 +86,14 @@
 				541ABCAA24AE1753007ABECD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		54D8545D24B017B3003B2D84 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				54D8545E24B017CF003B2D84 /* CatCardView.swift */,
+			);
+			path = Component;
 			sourceTree = "<group>";
 		};
 		54E3B6C424AE858A004145CA /* Model */ = {
@@ -179,6 +190,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54D8545F24B017CF003B2D84 /* CatCardView.swift in Sources */,
 				541ABCA224AE1752007ABECD /* AppDelegate.swift in Sources */,
 				541ABCA424AE1752007ABECD /* SceneDelegate.swift in Sources */,
 				54E3B6CE24AE8E48004145CA /* HttpCat.swift in Sources */,
